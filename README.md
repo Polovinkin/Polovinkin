@@ -2,7 +2,7 @@
 
 I'm a traveler and data engineer, if we look at the main activities I do. Currently work as Senior Data Engineer in Leroy Merlin Russia (now called Lemana Pro). Have been to 80 countries and 180+ regions of those countries in total.
 
-My current pet/side projects are:
+My current projects are:
 - 🚶🏼‍♂️📹🌏 [Vagabondity Walks](http://www.youtube.com/@vagabondity) YouTube channel. I create city walks in basically all cities I visit in my active travels around the world. There are more than 250+ city walks and 1k+ subscribers.
 - 💻📊🎙️ [Data Engineering Concepts](https://deconcepts.com) - first purely educational podcast about the world of Data Engineering in English. Clear, practical explanations of the tools, technologies, and ideas, one topic at a time. Based on 7+ years of real-world experience.
 - 🌏📌🕵🏼‍♂️ [TravelPinHunt.com](https://travelpinhunt.com) - crowd-sourced collectors guide to buying travel pins worldwide. Built this website as a thing I wanted to exist to help me in my pin-collecting hobby. Almost half of all the locations on the website are already added by other contributors.
